@@ -1,0 +1,4 @@
+IrcBotVeda
+==========
+
+IRC Bot Veda
